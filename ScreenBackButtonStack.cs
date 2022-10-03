@@ -7,7 +7,7 @@ using UnityEngine.UI;
 * Storage for the trail of screens visited by the user
 * 
 * Initial Source: https://forum.unity3d.com/threads/how-to-program-the-back-button-of-android-phone-through-unity.82311/
-* Authors: Sean Z Eozmon Studios, JoeriVDE
+* Authors: PTL, JoeriVDE
 * Version: 1.0 | 24th August 2017
 * */
 

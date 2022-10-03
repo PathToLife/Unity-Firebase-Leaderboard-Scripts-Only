@@ -10,7 +10,7 @@ using System.Collections.Generic;
 * Firebase Database Tester/Administration Tool
 * Create a Scene to Test Firebase Auth & DataBase.
 * 
-* Author: Sean Z Eozmon Studios
+* Author: PTL
 * Version: 0.1 | 28th August 2017
 * */
 

@@ -4,7 +4,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 
 /*
- * Author: Mykola Dobrochynskyy, Sean Z
+ * Author: Mykola Dobrochynskyy, PTL
  * Version 1.1
  * Created date:  07.01.2008
  * Last upadte date: 26-08-2017

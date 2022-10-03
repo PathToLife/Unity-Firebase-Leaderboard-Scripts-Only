@@ -25,7 +25,7 @@ Main Flow Test Development:
 * Firebase Database Tester/Administration Tool
 * Create a Scene to Test Firebase Auth & DataBase.
 * 
-* Author: Sean Z Eozmon Studios
+* Author: PTL
 * Version: 1.0 | 23rd August 2017
 * */
 
